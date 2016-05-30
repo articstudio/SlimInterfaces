@@ -1,0 +1,21 @@
+{
+  "name": "articstudio/slim-interfaces",
+  "description": "Slim interfaces for developers",
+  "keywords": ["slim", "interface"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marc Mascort Bou",
+      "email": "marc@articstudio.com",
+      "homepage": "http://www.articstudio.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "SlimInterfaces\\": "src/"
+    }
+  }
+}
