@@ -1,11 +1,11 @@
 <?php
 
-namespace SlimInterfaces;
+namespace SlimInterfaces\Contracts;
 
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ResponseInterface;
 
-interface RouteInterface
+interface Route
 {
 
   public function __invoke(RequestInterface $request, ResponseInterface $response, array $args);
