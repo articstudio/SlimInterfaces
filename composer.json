@@ -2,6 +2,7 @@
     "name": "articstudio/slim-interfaces",
     "description": "Slim interfaces for developers",
     "keywords": ["slim", "interface"],
+    "homepage": "https://github.com/articstudio/slim-interfaces",
     "license": "MIT",
     "authors": [
         {

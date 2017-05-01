@@ -1,1 +1,6 @@
+# IDE
 /nbproject
+
+# Composer
+/vendor
+composer.lock
